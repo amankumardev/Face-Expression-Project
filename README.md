@@ -3,12 +3,6 @@
 Real-Time Emotion Recognition using Computer Vision & Deep Learning
 
 
-
-
-
-
-
-
 📌 Overview
 
 The AI Face Expression Detection System is a real-time emotion recognition application that detects human facial expressions using a webcam.
@@ -59,8 +53,7 @@ Face-Expression-Project/
 └── README.md
 ⚙️ Installation & Setup
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/Face-Expression-Project.git
-cd Face-Expression-Project
+(https://github.com/amankumardev/Face-Expression-Project)
 2️⃣ Install Dependencies
 pip install -r requirements.txt
 
@@ -121,4 +114,5 @@ Passionate about AI, Machine Learning & Software Development 🚀
 ⭐ Support
 
 If you like this project, please give it a ⭐ on GitHub!
+
 
